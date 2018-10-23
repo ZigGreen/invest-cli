@@ -1,0 +1,20 @@
+{
+  "name": "invest-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "invest-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZigGreen <krisstal.mail@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fsevents": "^1.2.4",
+    "http-proxy": "^1.17.0",
+    "ramda": "^0.25.0",
+    "rxjs": "^6.3.3"
+  }
+}
